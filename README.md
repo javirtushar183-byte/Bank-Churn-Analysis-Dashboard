@@ -1,4 +1,4 @@
-📊 Bank Churn Analysis Dashboard
+📊 Bank Churn Analysis 
 
 🔷 1. Overview :
 
@@ -89,6 +89,9 @@ Promote credit card adoption
 
 ⭐ Final Insight :
 France is the core revenue and retention driver, while Germany and Spain show early signs of churn risk due to lower engagement and activity levels.
+
+
+📊 Bank Churn Analysis Dashboard:
 
 <img width="1321" height="740" alt="bank_churn_dashboard" src="https://github.com/user-attachments/assets/bb6be864-9bfa-4afe-b0d7-71bf754cf5bf" />
 
